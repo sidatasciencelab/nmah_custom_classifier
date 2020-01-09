@@ -1,2 +1,3 @@
 # nmah_custom_classifier
- Investigating custom classification of NMAH object images
+
+(split out from https://github.com/MikeTrizna/nmah_image_ml)
